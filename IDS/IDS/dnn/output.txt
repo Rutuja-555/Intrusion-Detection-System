@@ -1,0 +1,56 @@
+DOS:
+	Accuracy
+	0.929
+
+	Precision
+	0.998
+
+	Recall
+	0.915
+
+	F1 score
+	0.954
+
+
+U2R:
+	Accuracy
+	0.929
+
+	Precision
+	0.998
+
+	Recall
+	0.914
+
+	F1 score
+	0.954
+
+
+PROBE:
+	Accuracy
+	0.930
+
+	Precision
+	0.997
+
+	Recall
+	0.915
+
+	F1 score
+	0.955
+
+
+R2L:
+	Accuracy
+	0.929
+
+	Precision
+	0.999
+
+	Recall
+	0.913
+
+	F1 score
+	0.954
+
+
